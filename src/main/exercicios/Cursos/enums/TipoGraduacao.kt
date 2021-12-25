@@ -1,4 +1,4 @@
-package Cursos.enums
+package cursos.enums
 
 enum class TipoGraduacao(descricao: String?) {
     BACHARELADO("Bacharelado"),

@@ -1,6 +1,6 @@
-package Cursos
+package cursos
 
-import Cursos.enums.TipoGraduacao
+import cursos.enums.TipoGraduacao
 
 class Graduacao(val tipoGraduacao: TipoGraduacao, nome: String, cargaHoraria: Int, ppc: String, qntDocentes: Int,
                 qntAlunosFormados: Int, qntAlunosCursando: Int):

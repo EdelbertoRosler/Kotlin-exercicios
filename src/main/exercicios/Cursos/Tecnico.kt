@@ -1,6 +1,6 @@
-package Cursos
+package cursos
 
-import Cursos.enums.TipoTecnico
+import cursos.enums.TipoTecnico
 
 class Tecnico(val tipoTecnico: TipoTecnico, nome: String, cargaHoraria: Int, ppc: String, qntDocentes: Int,
               qntAlunosFormados: Int, qntAlunosCursando: Int):

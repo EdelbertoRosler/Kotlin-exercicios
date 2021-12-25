@@ -1,4 +1,4 @@
-package Cursos.enums
+package cursos.enums
 
 enum class TipoTecnico(descricao: String?) {
     SAUDE("Saúde"),

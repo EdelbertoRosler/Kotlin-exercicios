@@ -1,7 +1,7 @@
-package Cursos
+package cursos
 
-import Cursos.enums.TipoGraduacao
-import Cursos.enums.TipoTecnico
+import cursos.enums.TipoGraduacao
+import cursos.enums.TipoTecnico
 
 fun main(){
 
