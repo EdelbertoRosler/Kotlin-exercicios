@@ -6,7 +6,7 @@ import java.lang.Double.parseDouble
 import java.util.*
 
 
-fun main(args: Array<String>){
+fun main() {
     val scan = Scanner(System.`in`)
     val allVowels = listOf('a','e','i','o','u','A','E','I','O','U')
     val allConsonants = listOf('b','c','d','f','g','h','j','k','l','m','n','p','q','r','s','t','v','w','x','y','z',

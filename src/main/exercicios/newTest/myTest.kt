@@ -17,6 +17,6 @@ fun main(args: Array<String>) {
         println("$string is not a number")
 }
 
-//O programa recebe um valor em string e verifica se é possível transformá-lo em número.
+//O programa recebe uma string e verifica se é possível transformá-lo em double.
 //No caso, como tem um caractere "s" no meio da string, o programa não consegue transformar em
 //valor Double.

@@ -8,7 +8,6 @@ encontre o número de ocorrências deste caractere no texto
 
 fun main(){
 
-
     val exampleString = "Thiiis is my new string"
     val myChar = 'i'
     var cont = 0
